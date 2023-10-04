@@ -1,0 +1,13 @@
+:root {
+    --bg-color: blue;
+    --text-color:  #757575
+}
+
+.text-one {
+    color: var(--bg-color);
+}
+
+.p1 {
+    color: var(--text-color);
+    text-decoration: none;
+}
